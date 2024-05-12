@@ -1,1 +1,2 @@
-modern portfolio using Django, SQLite, Html, CSS, and JavaScript 
+modern portfolio using Django, SQLite, HTML, CSS, and JavaScript 
+live on https://nasimimran.pythonanywhere.com/
